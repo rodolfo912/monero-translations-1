@@ -8,6 +8,7 @@
 | address | Adresse | |
 | address book | Adressbuch | |
 | airgap | Airgap | |
+| airgapped computer | Air-Gap-Computer | der; evtl. noch erklären: „vom Internet getrennter Computer“ |
 | algorithm | Algorithmus | |
 | Always latest stable version | Immer die neueste stabile Version | |
 | amount | Betrag | |
@@ -18,17 +19,22 @@
 | argument | Argument | Kontext: Befehlszeile(CLI) |
 | as root | als *root* | |
 | atomic unit | kleinste Einheit | |
+| authentic | authentisch | |
+| authenticity | Echtheit | |
 | authorized signers |  berechtigte Signaturgeber | (oder: autorisierte Signaturgeber?) |
 | auto-config | Auto-Config | die; Kontext: MMS |
 | auto-config manager | Auto-Config-Manager | Kontext: MMS |
 | auto-config process | Auto-Config-Prozess | Kontext: MMS |
 | auto-config token | Auto-Config-Token | der; Kontext: MMS |
+| automatically | automatisch | |
+| bad signature | falsche Unterschrift | Kontext: GnuPG |
 | balance | Guthaben | |
 | Base32 address | Base32-Adresse | |
 | Base64 address | Base64-Adresse | |
 | basic review | grundlegende Überprüfung | |
 | become unlocked | freigegeben | |
-| binaries | Binärdateien | oder: nur „Dateien“ |
+| binary | Binärdatei | oder: nur „Datei“ |
+| binary file | Binärdatei | oder: nur „Datei“ |
 | Bitcoin | Bitcoin | |
 | bitcoin wallet | Bitcoin-Wallet | |
 | Bitmessage | Bitmessage | |
@@ -52,9 +58,12 @@
 | building | Kompilierung | |
 | built-in | integriert | |
 | Bulletproofs | Bulletproofs | |
+| button | Button | der; Kontext: Webseite |
+| button | Schaltfläche | Kontext: Webseite |
 | by default | standardmäßig | |
 | cache | Cache | der |
 | canonically-unique host | eindeutig zuordenbarer Host | |
+| CAPS LOCK | FESTSTELLTASTE | |
 | change | Rückgeld | |
 | chapter | Kapitel | |
 | clear | zurücksetzen | |
@@ -66,6 +75,8 @@
 | Code Documentation | Code-Dokumentation | |
 | coin | Coin | der |
 | coinbase transaction | Coinbase-Transaktion | |
+| cold storage wallet | Cold-Storage-Wallet | |
+| cold wallet | Cold-Wallet | |
 | collaborator | Mitwirkender | |
 | command | Befehl | Kontext: Befehlszeile (CLI) |
 | command line | Befehlszeile | |
@@ -91,15 +102,21 @@
 | config manager | Konfigurationsmanager | |
 | configuration | Konfiguration | |
 | confirmation | Bestätigung | |
+| connected | verbunden | |
 | consensus | Konsens | |
+| console program | Befehlszeilenprogramm | |
 | constant | Konstante | |
 | container | Container | der; Kontext: Docker |
 | contributing guidelines | Beitragsrichtlinien | |
 | contributor | Mitwirkender | |
+| convert | umtauschen | Kontext: Währungen |
+| copied to clipboard | in die Zwischenablage kopiert | |
 | copyright | Urheberrecht | |
+| CPU | CPU | die |
 | CPU miner | CPU-Miner | der |
 | CrypoNote | CrypoNote | |
 | cryptocurrency | Kryptowährung | |
+| cryptographically | kryptographisch | |
 | CryptoNote | CryptoNote | |
 | current directory | aktuelles Verzeichnis | |
 | cursor | Mauszeiger | |
@@ -113,12 +130,16 @@
 | decentralization | Dezentralisierung | siehe 1. zu Dezentralisation |
 | decentralized | dezentral | eher wenn gemeint: Beschreibung der Beschaffenheit, des Zustand (der Dezentralität) |
 | decentralized | dezentralisiert | eher wenn gemeint: Beschreibung des Prozesses (der Dezentralisierung/Dezentralisation) |
+| decode | decodieren | |
+| decrypt | entschlüsseln | |
 | denomination | Stückelung | |
 | dependency | Abhängigkeit | |
 | deposit | Einzahlung | Kontext: Konto |
 | deposit | einzahlen | Kontext: Konto |
+| deposit address | Einzahlungsadresse | |
 | destination | Ziel | gemeint: Ziel einer Transaktion (Empfänger) |
 | detailed | detailliert | |
+| developer | Entwickler | |
 | developer guide | Entwicklerhandbuch | |
 | Developer Guides | Anleitungen für Entwickler | |
 | directory | Verzeichnis | |
@@ -126,6 +147,7 @@
 | distribution | Distribution | die |
 | distro | Distribution | die |
 | docker container | Docker-Container | der |
+| double click | doppelklicken | |
 | download | Download | der |
 | drive | Laufwerk | |
 | DriveLetter | Laufwerkbuchstabe | |
@@ -135,11 +157,13 @@
 | e.g. | z.Bsp. | |
 | edit | bearbeiten | |
 | eepsite | Eepsite | die |
+| eg. | z.Bsp. | |
 | emission | Verteilung | |
 | emission | Emission | eher: Verteilung |
 | emission curve | Verteilungskurve | |
 | encrypted | verschlüsselt | |
 | encryption | Verschlüsselung | |
+| end user | Endbenutzer | |
 | entry | Eintrag | |
 | environment variable | Umgebungsvariable | |
 | error | Fehler | |
@@ -153,7 +177,9 @@
 | fee | Gebühr | |
 | file | Datei | |
 | file extension | Dateierweiterung | |
+| file manager | Datei-Manager | |
 | file system | Dateisystem | |
+| fingerprint | Fingerabdruck | |
 | flag | Parameter | |
 | floodfill | Floodfill | |
 | fluffy blocks | Fluffy-Blocks | die |
@@ -177,39 +203,57 @@
 | getting started | erste Schritte | |
 | getting started | Grundlagen | |
 | git-log | Git-Log | |
+| good signature | korrekte Unterschrift | Kontext: GnuPG |
+| Gpg4win | Gpg4win | |
+| gpg4win site | Gpg4win-Seite | |
 | GPU miner | GPU-Miner | der |
+| graphics mode | Grafikmodus | |
 | group policies | Gruppenrichtlinien | |
 | GUI | GUI | |
+| GUI | graphische Nutzeroberfläche | |
+| guide | Anleitung | |
 | guidelines | Richtlinien | |
 | hardware | Hardware | die |
 | hardware wallet | Hardware-Wallet | |
 | hash | Hash | der |
+| hash file | Hash-Datei | |
 | hashing power | Hashpower | die |
 | hashing rate | Hashrate | die; pl.: Hashraten |
 | hashrate | Hashrate | die; pl.: Hashraten |
 | hexadecimal | hexadezimal | |
 | hidden | versteckt | |
 | hidden service | Hidden Service | evtl. in Klammern "versteckter Dienst" |
+| history | Verlauf | Kontext: Transaktionen (Wallet) |
+| home directory | Benutzerverzeichnis | |
 | host | Host | der |
+| hot wallet | Hot-Wallet | |
 | I2P | I2P | |
 | impersonation | Identitätswechsel | |
 | implementation | Implementierung | |
 | incoming | eingehend | Kontext: Transaktion |
+| incompatible | inkompatibel | |
 | information | Informationen | |
 | initialize | initialisieren | |
 | install | installieren | |
 | install instructions | Installationsanweisungen | |
+| Installer | Installationsprogramm | |
 | instance | Instanz | |
 | integrated address | integrierte Adressse | |
+| integrity | Integrität | |
+| interface | Oberfläche | |
+| internet | Internet | |
 | isolation | Isolation | |
 | issue | Issue | |
 | jump service | Jump-Service | Kontext: I2P |
 | key | Schlüssel | |
 | key exchange | Schlüsselaustausch | |
 | key image | Schlüsselbild | |
+| key pair | Schlüsselpaar | |
 | key set | Schlüsselsatz | |
 | key sets | Schlüsselsätze | |
 | keybinding | Tastaturkürzel | |
+| keyring | Schlüsselbund | |
+| Kleopatra | Kleopatra | |
 | Kovri | Kovri | |
 | label | Label | in GUI: Beschreibung (3x) oder Name (1x) |
 | large pages | umfangreiche Seiten | |
@@ -220,12 +264,14 @@
 | Legal | Rechtliches | |
 | level of anonymity | Anonymitätsniveau | |
 | license | Lizenz | |
+| light theme | helles Design | |
 | Linux | Linux | |
 | local daemon startup flags | Startparameter für lokalen Hintergrunddienst | |
 | locally-unique host | lokal einzigartiger Host | |
 | locked funds | feststeckende Guthaben | |
 | log | Log | |
 | log level | Log-Level | das |
+| Mac | Mac | |
 | machine | Computer | der |
 | machine | Rechner | |
 | main emission | Hauptverteilung | |
@@ -238,6 +284,7 @@
 | message transport | Nachrichtentransport | |
 | message transport system | Nachrichtentransportsystem | |
 | mine | minen | |
+| mined | gemint | |
 | miner | Miner | der; pl. die Miner |
 | minimum version | Mindestversion | |
 | mining | Mining | das |
@@ -245,22 +292,29 @@
 | mirror | Spiegel-Server | der |
 | mixed-case | gemischt groß- und kleingeschrieben | |
 | MMS | MMS | das; Multisig Messaging System |
+| mnemonic | mnemonisch | |
 | mnemonic seed | mnemonischer Seed | der |
 | Monero | Monero | |
 | Monero address | Monero-Adresse | |
 | Monero binaries | Monero-Binärdateien | |
+| Monero binary files | Monero-Binärdateien | |
+| Monero blockchain | Monero-Blockchain | |
 | Monero daemon | Monero-Hintergrunddienst | |
 | Monero Forum | Moneroforum | |
 | Monero multisig transactions | Monero-Multisig-Transaktionen | |
 | Monero network | Monero-Netzwerk | |
 | Monero node | Monero-Node | der |
+| Monero paper wallet | Monero-Paper-Wallet | |
 | Monero Press Kit | Monero-Presseunterlagen | |
 | Monero Project | Monero-Projekt | |
 | Monero Research Lab | Monero Research Lab | |
+| Monero signing key | Monero-Signaturschlüssel | |
 | Monero software | Monero-Software | |
+| Monero team | Monero-Team | |
 | Monero wallet | Monero-Wallet | |
 | Moneropedia | Moneropedia | |
 | money | Geld | |
+| most used | meistgebraucht | |
 | multisig | Multisig | die |
 | multisig address | Multisig-Adresse | |
 | multisig sync data | Multisig-Synchronisierungsdaten | |
@@ -273,10 +327,12 @@
 | NiceHash | NiceHash | |
 | node | Node | der |
 | note | Notiz | |
-| Note: | Info: | |
+| Note: | Hinweis: | |
 | obfuscate | verschleiern | |
 | obfuscation | Verschleierung | |
+| official | offiziell | |
 | offline wallet | Offline-Wallet | |
+| one time key | Einmalschlüssel | |
 | open source | Open Source | |
 | open tasks | offene Aufgaben | |
 | operating system | Betriebssystem | |
@@ -290,22 +346,28 @@
 | output | Output | der |
 | paper | Paper | Kontext: wissenschaftl. Artikel |
 | paper wallet | Paper-Wallet | |
+| paper wallet generator | Paper-Wallet-Generator | der |
 | parameter | Parameter | Kontext: Befehlszeile |
 | partial key | Teilschlüssel | |
 | partial key image | Teilschlüsselbild | |
 | partially signed transaction | teilweise signierte Transaktion | |
+| passphrase | Passphrase | |
 | password | Passwort | |
 | patch | Patch | der |
 | path | Pfad | |
 | payment | Zahlung | |
 | payment ID | Payment-ID | auf Website verwendet, in GUI: Zahlungs-ID |
 | payment ID | Zahlungs-ID | in GUI verwendet, auf Website: Payment-ID |
+| payment proof | Zahlungsnachweis | |
 | payout | Auszahlung | Kontext: Mining-Pools |
 | Pedersen commitment | Pedersen-Commitment | das |
+| pending | ausstehend | |
 | per-transaction | transaktionsspezifisch | |
 | PGP key | PGP-Schlüssel | |
 | physical insulation | physische Isolierung | |
 | Pool | Pool | der; Kontext: Mining-Pool |
+| pop up | Pop-up-Fenster | |
+| pop up window | Pop-up-Fenster | |
 | port | Port | der; Kontext: Netzwerk |
 | portfolio | Portfolio | das; oder: Wallet |
 | powershell | PowerShell | die |
@@ -313,6 +375,7 @@
 | pregenerate | vorgenerieren | |
 | prepended | vorangestellt | |
 | prerequisites | Voraussetzungen | |
+| primary address | Hauptadresse | |
 | privacy | Datenschutz | je nach Kontext eher: Privatsphäre |
 | privacy | Privatsphäre | je nach Kontext eher: Datenschutz |
 | private key | privater Schlüssel | |
@@ -341,9 +404,11 @@
 | recipient | Empfänger | |
 | refactor | refaktorieren | |
 | refresh | aktualisieren | |
+| refund | Rückerstattung | |
+| refund address | Rückerstattungsadresse | |
 | release | Version | |
 | reliability | Zuverlässigkeit | |
-| remote Node | Drittanbieternode | |
+| remote node | Drittanbieternode | |
 | repository | Repository | das; pl.: Repositorys |
 | request | Anforderung | Kontext: HTTP request etc. |
 | required dependencies | erforderliche Abhängigkeiten | |
@@ -351,6 +416,7 @@
 | responsible disclosure | verantwortungsvolle Offenlegung | |
 | restore | wiederherstellen | |
 | restore height | Wiederherstellungshöhe | |
+| result | Ergebnis | |
 | Revuo Monero | Revuo Monero | |
 | reward | Belohnung | |
 | ring confidential transaction | vertrauliche Ringtransaktion | |
@@ -374,15 +440,19 @@
 | scanned | durchsucht | |
 | scroll | scrollen | |
 | second-layer solutions | Zweitschichtlösungen | |
+| section | Abschnitt | |
 | security | Sicherheit | |
 | security auditing | Sicherheitsaudit | |
 | security level | Sicherheitslevel | |
-| see website | siehe Website | |
+| see website | siehe Webseite | |
 | seed | Seed | der |
+| segregation height | Abspaltungshöhe | |
 | send | senden | |
 | send | schicken | |
 | send | verschicken | |
 | sender | Sender | gemeint: Sender einer Transaktion |
+| server console | Server-Konsole | |
+| settings | Einstellungen | |
 | share | Share | der; von Anteil |
 | signature | Signatur | die |
 | signed | signiert | |
@@ -391,16 +461,20 @@
 | signer information | Signaturgeberinformationen | |
 | signer list | Signaturgeberliste | |
 | signing address | signierende Adresse | |
+| signing key | Signaturschlüssel | |
 | skip | überspringen | |
 | slash | Slash | |
+| slider | Schieberegler | |
 | smart mining | Smart-Mining | das |
 | solo mining | Solo-Mining | das |
 | source code | Quellcode | |
+| space | Leerzeichen | |
 | specification | Spezifikation | |
 | specification review | Spezifikationsüberprüfung | |
 | spend key | Spend-Key | der |
 | spend proof | Spendenachweis | |
 | Spendable Wallet | Wallet mit Vollzugriff | |
+| spendkey | Spend-Key | der |
 | spent outputs | ausgegebene Outputs | |
 | stale data | veraltete Daten | |
 | standard address | Standardadresse | |
@@ -409,12 +483,14 @@
 | static analysis | statische Analyse | |
 | stealth address | Schattenadresse | |
 | step | Schritt | |
+| storage location | Speicherort | |
 | string | Zeichenfolge | |
 | style | Stil | |
 | style guide | Stilhandbuch | |
 | style reference | Stilverweis | |
 | subaddress | Subadresse | |
 | subcommand | Unterbefehl | |
+| subkey | Unterschlüssel | |
 | submit | senden | |
 | submit | übermitteln | |
 | subscription | Register | Kontext: I2P |
@@ -426,17 +502,23 @@
 | tag | Tag | |
 | tagged | getagged | |
 | tail emission | Anschlussverteilung | |
+| tampered with | manipuliert | |
 | technical specs | technische Spezifikationen | |
 | terminal | Terminal | das |
 | terminology | Terminologie | |
 | testnet | Testnet | das |
 | the full path | der vollständige Pfad | |
+| thread | Thread | der |
 | timestamp | Zeitstempel | |
 | tokens | Token | der |
 | Tor | Tor | |
 | Tor network | Tor-Netzwerk | |
 | transaction | Transaktion | |
 | transaction data | Transaktionsdaten | |
+| transaction details | Transaktionsdetails | |
+| transaction history | Transaktionsverlauf | |
+| transaction ID | Transaktions-ID | die |
+| transaction key | Transaktionsschlüssel | |
 | transaction unlock time | Freigabedauer von Transaktionen | |
 | transfer | Transfer | eher: Zahlung |
 | transfer | Zahlung | auch: Transfer |
@@ -447,10 +529,14 @@
 | Tx ID | Tx-ID | |
 | Tx key | Tx-Schlüssel | |
 | Tx note | Tx-Notiz | |
+| tx pool | Transaktions-Pool | |
+| txpool | Transaktions-Pool | |
 | Ubuntu | Ubuntu | |
 | UI | Benutzeroberfläche | |
 | unlocked balance | verfügbares Guthaben | |
+| unlocked balance | entsperrtes Guthaben | |
 | unspent | nicht ausgegeben | |
+| USB stick | USB-Stick | der |
 | user | Nutzer | |
 | user experience | Benutzerfreundlichkeit | |
 | user experience | Benutzererfahrung | |
@@ -459,15 +545,22 @@
 | user guide | Benutzerhandbuch | |
 | User Guides | Anleitungen für Nutzer | |
 | user name | Benutzername | |
+| validity | Gültigkeit | |
+| verification | Überprüfung | |
+| verification | Verifizierung | |
+| verify | verifizieren | |
+| version | Version | |
 | view key | View-Key | der |
 | view-only wallet | View-Only-Wallet | |
 | viewkey | View-Key | der |
+| VPS | VPS | der; Virtual Private Server |
 | Vulnerability Response Process | Vulnerability Response Process | der |
 | wallet | Wallet | |
 | wallet creation height | Wallet-Erstellungshöhe | |
 | wallet file | Walletdatei | |
 | wallet log path | Wallet-Log-Pfad | |
 | wallet software | Wallet-Software | die |
+| web browser | Webbrowser | der |
 | website | Webseite | die |
 | when asked | bei Aufforderung | |
 | Whonix workstation | Whonix-Workstation | |
@@ -475,6 +568,7 @@
 | Windows | Windows | |
 | withdraw | abheben | Kontext: Konto |
 | withdrawal | Abhebung | Kontext: Konto |
+| word processor | Textverarbeitungsprogramm | |
 | work in progress | in Bearbeitung | |
 | workstation | Workstation | die |
 | wrapper | Wrapper | der |
